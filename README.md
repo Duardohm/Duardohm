@@ -113,19 +113,19 @@
 
 <br>
 
-<!-- <li>
+<li>
 <a href="https://instagram.com/Duardohm" target="_blank">
 <img src="https://img.shields.io/badge/Instagram:%20Duardohm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
-</li> -->
+</li>
 
 <br>
 
-<li>
+<!-- <li>
 <a href="mailto:Eh-Duardo@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Eh-Duardo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+</li> -->
 
 </ul>
 </div>
