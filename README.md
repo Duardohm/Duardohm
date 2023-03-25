@@ -19,7 +19,7 @@
 - I'm a student of UNINASSAU - PE;
 - I love to listen to music to pass the time;
 - Newbie with CSS;
-- My Portfolio [link](https://eh-duardo.github.io/portfolio-edu/);
+- My Porfolio <a href="https://eh-duardo.github.io/portfolio-edu/" target="_blank"> LINK</a>
 
 <br><br>
 
