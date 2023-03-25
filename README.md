@@ -1,13 +1,11 @@
 <h1 align="center"><img src="https://i.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.webp" width="35"><b>Hi , I'm Eduardo Pereira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Paz+Esteja+Convosco!..&hearts;++;Self-taught+Cyber-Security,;Information+Systems+Student,;Web+Developer+Junior,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
-
 
 
 ## <picture><img src = "https://github.com/Eh-Duardo/Eh-Duardo/blob/main/assets/gifs/about_me.gif" width = 50px></picture> **About me**
@@ -115,19 +113,19 @@
 
 <br>
 
-##<li>
-##<a href="https://twitter.com/Eh-Duardo" target="_blank">
-##<img src="https://img.shields.io/badge/twitter:  Eh-Duardo-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-##</a>
-##</li>
+<!-- <li>
+<a href="https://twitter.com/Eh-Duardo" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Eh-Duardo-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
 
 <br>
 
-##<li>
-##<a href="mailto:Eh-Duardo@gmail.com" target="_blank">
-##<img src="https://img.shields.io/badge/gmail:  Eh-Duardo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-##</a>
-##</li>
+<li>
+<a href="mailto:Eh-Duardo@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Eh-Duardo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li> -->
 
 </ul>
 </div>
