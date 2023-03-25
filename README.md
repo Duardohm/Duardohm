@@ -6,7 +6,7 @@
 </p>
 
 <br>
-## <picture><img src = "https://github.com/Eh-Duardo/Eh-Duardo/blob/main/assets/gifs/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/Eh-Duardo/Eh-Duardo/blob/main/assets/gifs/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/Eh-Duardo/Eh-Duardo/blob/main/assets/gifs/Right_Side.gif" width = 250px></picture>
 
