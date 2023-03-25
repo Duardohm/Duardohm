@@ -84,11 +84,12 @@
 <div align="left">
 
 <a href="https://github.com/Eh-Duardo/">
-    <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Eh-Duardo&label=Profile%20views&color=0e75b6&style=flat" alt="Eh-Duardo views count" /> 
+    <p align="left"> <h3>Profile Views :-</h3> 
+    <img src="https://komarev.com/ghpvc/?username=Eh-Duardo&label=Profile%20views&color=0e75b6&style=flat" alt="Eh-Duardo views count">
+    <br> 
     <img src="https://github-readme-stats.vercel.app/api?username=Eh-Duardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eh-Duardo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"  alt="Eh-Duardo"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=eh-duardo&row=2&column=3&theme=algolia" />
     <br>
     <img src="https://github-profile-trophy.vercel.app/?username=eh-duardo&theme=algolia">
 </a>
