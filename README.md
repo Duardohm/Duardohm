@@ -6,9 +6,9 @@
 </p>
 
 <br>
-<picture><img src = "https://github.com/Eh-Duardo/Eh-Duardo/blob/main/assets/gifs/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/Duardohm/Duardohm/blob/main/assets/gifs/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/Eh-Duardo/Eh-Duardo/blob/main/assets/gifs/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Duardohm/Duardohm/blob/main/assets/gifs/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -84,13 +84,13 @@
 <div align="left">
 
 <a href="https://github.com/Eh-Duardo/">
-    <p align="left"> <h3>Profile Views:</h3><img src="https://komarev.com/ghpvc/?username=Eh-Duardo&label=Profile%20views&color=0e75b6&style=flat" alt="Eh-Duardo views count">
+    <p align="left"> <h3>Profile Views:</h3><img src="https://komarev.com/ghpvc/?username=Duardohm&label=Profile%20views&color=0e75b6&style=flat" alt="Eh-Duardo views count">
     <br> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Eh-Duardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Duardohm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eh-Duardo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"  alt="Eh-Duardo"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Duardohm&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"  alt="Duardohm"/>
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=eh-duardo&theme=algolia">
+    <img src="https://github-profile-trophy.vercel.app/?username=Duardohm&theme=algolia">
 </a>
 
 </div>
@@ -105,7 +105,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/Eh-Duardo/Eh-Duardo/blob/main/assets/gifs/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Duardohm/Duardohm/blob/main/assets/gifs/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
