@@ -17,7 +17,7 @@
 - I'm a student of UNINASSAU - PE;
 - I love to listen to music to pass the time;
 - Newbie with CSS;
-- My Porfolio <a href="https://eh-duardo.github.io/portfolio-edu/" target="_blank"> LINK</a>
+- My Porfolio <a href="https://duardohm.github.io/portfolio-edu/" target="_blank"> LINK</a>
 
 <br><br>
 
@@ -40,7 +40,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
