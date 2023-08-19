@@ -83,8 +83,8 @@
 
 <div align="left">
 
-<a href="https://github.com/Eh-Duardo/">
-    <p align="left"> <h3>Profile Views:</h3><img src="https://komarev.com/ghpvc/?username=Duardohm&label=Profile%20views&color=0e75b6&style=flat" alt="Eh-Duardo views count">
+<a href="https://github.com/Duardohm/">
+    <p align="left"> <h3>Profile Views:</h3><img src="https://komarev.com/ghpvc/?username=Duardohm&label=Profile%20views&color=0e75b6&style=flat" alt="Duardohm views count">
     <br> 
     <img src="https://github-readme-stats.vercel.app/api?username=Duardohm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"/>
     <br>
