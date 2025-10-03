@@ -118,13 +118,6 @@
 </li>
 
 <br>
-
-<li>
-<a href="https://instagram.com/Duardohm" target="_blank">
-<img src="https://img.shields.io/badge/Instagram:%20Duardohm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
 <br>
 
 </ul>
