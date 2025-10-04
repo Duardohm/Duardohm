@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.webp" width="35"><b>Hi , I'm Eduardo Pereira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://i.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.webp" width="35"><b>Hi , I'm Eduardo Silva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
